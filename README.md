@@ -23,6 +23,7 @@ This App scrapes links from various anime streaming websites and displays them i
 * Okhttp, Volley
 * JSOUP
 * Gson
+* Firebase analytics
 * All the sites used in the application
 
 
