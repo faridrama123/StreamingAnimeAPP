@@ -12,6 +12,11 @@ This App scrapes links from various anime streaming websites and displays them i
 
 
 # Mobile Android Images
+<p float="left">
+  <img src="/images/android1.PNG" width="30%" />
+  <img src="/images/android2.PNG"  width="30%"" /> 
+  <img src="/images/android3.PNG"  width="30%" />
+</p>
 <div class="row">
   <div class="column">
    <img src="images/android1.PNG" width="30%"> 
