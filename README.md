@@ -1,6 +1,21 @@
 # Technime Android TV/Mobile Anime Streaming App
 This App scrapes links from various anime streaming websites and displays them in the App
 
+# Mobile Android Images
+<p float="left">
+  <img src="/images/android1.PNG" width="30%" />
+  <img src="/images/android2.PNG"  width="30%"" /> 
+  <img src="/images/android3.PNG"  width="30%" />
+</p>
+<p float="left2">
+  <img src="/images/android4.PNG" width="30%" />
+  <img src="/images/android5.PNG"  width="30%"" /> 
+</p>
+
+# TV Android Images
+   <img src="images/androidtv1.PNG" width="90%"> 
+
+
 # Libraries
 * Google Lean back
 * Android.x Appcompact
@@ -19,21 +34,5 @@ This App scrapes links from various anime streaming websites and displays them i
 * Added a search page that allows you to search anime ✅
 * Added a multiple servers that you can use to stream anime ✅
 * Added a view all anime page that allows you to find new anime to watch ✅
-
-
-# Mobile Android Images
-<p float="left">
-  <img src="/images/android1.PNG" width="30%" />
-  <img src="/images/android2.PNG"  width="30%"" /> 
-  <img src="/images/android3.PNG"  width="30%" />
-</p>
-<p float="left2">
-  <img src="/images/android4.PNG" width="30%" />
-  <img src="/images/android5.PNG"  width="30%"" /> 
-</p>
-
-# TV Android Images
-   <img src="images/androidtv1.PNG" width="90%"> 
-
 
 <a href= "https://github.com/systemcalls-null/Technime/raw/main/Technime%201.0.apk">Download Link <br/>
