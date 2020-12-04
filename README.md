@@ -11,6 +11,16 @@ This App scrapes links from various anime streaming websites and displays them i
 * All the sites used in the application
 
 
+# Features
+* This Application is Free and 100% Ad Free ✅
+* Main Ui page is Regularly updated with the Latest anime ✅
+* Added a Watch list to allow you to save anime ✅
+* Added a Filter Genre ✅
+* Added a search page that allows you to search anime ✅
+* Added a multiple servers that you can use to stream anime ✅
+* Added a view all anime page that allows you to find new anime to watch ✅
+
+
 # Mobile Android Images
 <p float="left">
   <img src="/images/android1.PNG" width="30%" />
@@ -25,13 +35,5 @@ This App scrapes links from various anime streaming websites and displays them i
 # TV Android Images
    <img src="images/androidtv1.PNG" width="90%"> 
 
-# Features
-* This Application is Free and 100% Ad Free ✅
-* Main Ui page is Regularly updated with the Latest anime ✅
-* Added a Watch list to allow you to save anime ✅
-* Added a Filter Genre ✅
-* Added a search page that allows you to search anime ✅
-* Added a multiple servers that you can use to stream anime ✅
-* Added a view all anime page that allows you to find new anime to watch ✅
 
 <a href= "https://github.com/systemcalls-null/Technime/raw/main/Technime%201.0.apk">Download Link <br/>
